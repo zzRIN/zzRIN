@@ -8,7 +8,7 @@ layout: homepage
 
 I am currently a Physics Ph.D. candidate at [Spin-Ion Technologies](https://www.spin-ion.com/) and [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), working under the mentorship of Dr. [Ravelosona dafiné](https://www.spin-ion.com/about-us/), the director of research [CNRS](https://www.cnrs.fr/fr) and CTO of [Spin-Ion Technologies](https://www.spin-ion.com/). My research involves magnetoelectric ("ME") materials for energy-efficient information technology and "ME" materials for data security in information technology using Multiferroics/Magneto-ionics/Surface charging, with a special focus on the boosting magneto-ionic effect using ion irradiation and implantation.
 
-I am currently a research intern at New York University, and I will join the Department of [Applied Mathematics](https://www.apmath.sci.waseda.ac.jp/), [Waseda University](https://www.waseda.jp/top/en/)as an MPhil Student in September 2024.  
+I am currently a research intern at New York University, and I will join the [Department of Applied Mathematics](https://www.apmath.sci.waseda.ac.jp/), [Waseda University](https://www.waseda.jp/top/en/)as an MPhil Student in September 2024.  
 
 ## Research Interest
 
