@@ -10,12 +10,11 @@ I am currently a Physics Ph.D. candidate at [Spin-Ion Technologies](https://www.
 
 ## Research Interest
 
-- **Ion-material Simulation:** SRIM, SDTrimSP, RustBCA
-- **Ion Irradiation/Implantation**
-- **Machine Learning:** fairness AI, penalization and augmentation methods
+- **Explainable AI:** 
+- **Statistical Machine Learning:**
+- **Irregular Time Series Analysis:** fairness AI, penalization and augmentation methods
 - **E-field controlled magnetization** VCMA, Strain-mediated ME (Magnetoelectric) Effects, Straintronic, iontronic, E-filed induced spin reorientation, SOT.
-- **Micro-, Nanofabrication**
-- **Neuromorphic Computing** Neuromorphic Sensing and Perception, Hybrid Computing Systems, Brain-Inspired Robotics
+
 
 ## Education
 - **Ph.D. in Physics**, 2021 - 2024, [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), France
