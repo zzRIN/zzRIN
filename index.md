@@ -12,7 +12,7 @@ I am currently a Research Intern at New York University, and I will join the [De
 
 - **Explainable AI:** 
 - **Statistical Machine Learning:**
-- **Irregular Time Series Analysis:** fairness AI, penalization and augmentation methods
+- **Irregular Time Series Analysis:** 
 - **E-field controlled magnetization** VCMA, Strain-mediated ME (Magnetoelectric) Effects, Straintronic, iontronic, E-filed induced spin reorientation, SOT.
 
 
