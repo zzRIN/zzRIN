@@ -6,7 +6,7 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
-I am currently a research intern at New York University, and I will join the [Department of Applied Mathematics](https://www.apmath.sci.waseda.ac.jp/), [Waseda University](https://www.waseda.jp/top/en/) as an MPhil Student in September 2024. I am interested in the intersection of Computer Science and Mathematics.
+I am currently a Research Intern at New York University, and I will join the [Department of Applied Mathematics](https://www.apmath.sci.waseda.ac.jp/), [Waseda University](https://www.waseda.jp/top/en/) as an MPhil Student in September 2024. I am interested in the intersection of Computer Science and Mathematics.
 
 ## Research Interest
 
