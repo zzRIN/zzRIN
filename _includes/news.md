@@ -8,9 +8,9 @@
 <li><strong>[SEP. 2023]</strong> Dean's List.</li>
 <li><strong>[MAY. 2021]</strong> The Third Price of the Mathorcup National Mathematical Modeling Competition. </li>
 <li><strong>[FEB. 2021]</strong> The Honorable Mention of the Mathematical Contest in Modeling. </li>
+<li><strong>[NOV. 2020]</strong> The First Price of Asia and Pacific Mathematical Contest in Modeling. </li>
 <li><strong>[NOV. 2020]</strong> The Bronze Medal of The National University Students Algorithm Design and Programming Challenge.</li>
 <div id="newsmore" style="display:none">
-<li><strong>[NOV. 2020]</strong> The First Price ofAsia and Pacific Mathematical Contest in Modeling. </li>
 
 <!--  
 <li><strong>[OCT. 2023]</strong> The Tech Blog <span style="color:#e74d3c"><a href="https://songchen.science/blog/">"The Hitchhiker's Guide to Galaxy"</a></span> has now integrated an <span style="color:#e74d3c"><a href="https://hitchhiker.azurewebsites.net">onedrive file list program</a></span> implemented by calling API.</li>
