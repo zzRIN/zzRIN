@@ -16,7 +16,7 @@ I am currently a Research Intern at New York University, and I will join the [De
 
 
 ## Education
-- **M.Phil. in Applied Mathematics**, 2024 -, [Waseda University](https://www.waseda.jp/top/en/)), Japan
+- **M.Phil. in Applied Mathematics**, 2024 -, [Waseda University](https://www.waseda.jp/top/en/), Japan
 - **Exchange Student**, 2023, [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), Hong Kong
 
 
