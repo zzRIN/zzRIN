@@ -24,10 +24,11 @@ I am currently a Research Intern at New York University, and I will join the [De
 
 
 ## Grants and Fellowships
-- **Marie Skłodowska-Curie Actions (MSCA) Individual Fellowship**, 2020-2024, Early Stage Researcher (ESR), Grant Number: 864415
+- **International Academic Program - Study Abroad Scholarship**, 2023
+
 
 ## Professional Affiliations
-- **Marie Curie Alumni Association Member**, 2021 - Present
+- **IEEE Student Member**, 2020 - Present
 - **The European Magnetism Association (EMA) Member**, 2021 - Present
 
 ## Certificates
