@@ -10,16 +10,15 @@ I am currently a Research Intern at New York University, and I will join the [De
 
 ## Research Interest
 
-- **Explainable AI:** 
-- **Statistical Machine Learning:**
-- **Irregular Time Series Analysis:** 
-- **E-field controlled magnetization** VCMA, Strain-mediated ME (Magnetoelectric) Effects, Straintronic, iontronic, E-filed induced spin reorientation, SOT.
+- **Explainable AI** 
+- **Statistical Machine Learning**
+- **Irregular Time Series Analysis** 
 
 
 ## Education
 - **M.Phil. in Applied Mathematics**, 2024 -, [Waseda University](https://www.waseda.jp/top/en/)), Japan
 - **B.Sc. in Computer Science**, 2020 - 2024, [XX Univerisity](https://www.njtech.edu.cn/), U.S.
-- **Exchange Student**, 2023, [The Chinese University of Hong Kong](https://www.njtech.edu.cn/), Hong Kong
+- **Exchange Student**, 2023, [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), Hong Kong
 
 
 
