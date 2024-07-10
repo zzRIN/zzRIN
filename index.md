@@ -28,8 +28,7 @@ I am currently a Research Intern at New York University, and I will join the [De
 
 
 ## Professional Affiliations
-- **IEEE Student Member**, 2020 - Present
-- **The European Magnetism Association (EMA) Member**, 2021 - Present
+- **Institute of Electrical and Electronics Engineers (IEEE) Student Member**, 2020 - Present
 
 ## Certificates
 
