@@ -4,13 +4,15 @@
 
 <ul>
 
-<li><strong>[SEP. 2024]</strong> Automating the generation of publication based on the Googlescholar profile, as shown in the  <span style="color:#e74d3c"><a href="https://github.com/song-chen1/song-chen1.github.io">Github repository</a></span>.</li>
-<li><strong>[SEP. 2023]</strong> The <span style="color:#e74d3c"><a href="https://goindex.chen-song90.workers.dev">Googledrive index</a></span> has been now integrated to the webblog.</li>
-<li><strong>[JUN. 2023]</strong> The <span style="color:#e74d3c"><a href="https://songchen.science/blog/gallery/">Hitchhiker's Gallery</a></span> has been released, thanks to anzai's <span style="color:#e74d3c"><a href="https://github.com/anzai249/easy-masonry/tree/main">work: easy-masonry</a></span> </li>
-<li><strong>[NOV. 2023]</strong> The <span style="color:#e74d3c"><a href="https://bemagic-etn.eu/news/80-bemagic-final-event">Final Event of the BeMAGIC project</a></span> will take place in the Universitat Autònoma de Barcelona, Spain, on 14-15 December. </li>
-<li><strong>[NOV. 2023]</strong> AHEMS: <span style="color:#e74d3c"><a href="https://hitchhiker.azurewebsites.net/?/AHEMS/">Anomalous Hall Effect Measurement System</a></span> has been released.</li>
+<li><strong>[SEP. 2024]</strong> I will be joining the Applied Mathematics department at Waseda University .</li>
+<li><strong>[SEP. 2023]</strong> Dean's List.</li>
+<li><strong>[MAY. 2021]</strong> The Third Price of the Mathorcup National Mathematical Modeling Competition. </li>
+<li><strong>[FEB. 2021]</strong> The Honorable Mention of the Mathematical Contest in Modeling. </li>
+<li><strong>[NOV. 2020]</strong> The Bronze Medal of The National University Students Algorithm Design and Programming Challenge.</li>
 <div id="newsmore" style="display:none">
-<li><strong>[NOV. 2023]</strong> <span style="color:#e74d3c"><a href="https://hitchhiker.azurewebsites.net/?/I-V/">I-V Measurement System</a></span> has been released.</li>
+<li><strong>[NOV. 2020]</strong> The First Price ofAsia and Pacific Mathematical Contest in Modeling. </li>
+
+<!--  
 <li><strong>[OCT. 2023]</strong> The Tech Blog <span style="color:#e74d3c"><a href="https://songchen.science/blog/">"The Hitchhiker's Guide to Galaxy"</a></span> has now integrated an <span style="color:#e74d3c"><a href="https://hitchhiker.azurewebsites.net">onedrive file list program</a></span> implemented by calling API.</li>
 <li><strong>[OCT. 2023]</strong> The Tech Blog <span style="color:#e74d3c"><a href="https://songchen.science/blog/">"The Hitchhiker's Guide to Galaxy"</a></span> has now a <span style="color:#e74d3c"><a href="https://songchen.science/blog/zh-CN">chinese version</a></span>. The content inside can be separately edited. Later maybe a german version.</li>
 <li><strong>[OCT. 2023]</strong> A Tech Blog <span style="color:#e74d3c"><a href="https://songchen.science/blog/">"The Hitchhiker's Guide to Galaxy"</a></span> was integrated to this personal homepage, the webblog is based on <span style="color:#e74d3c"><a href="https://hexo.io/">Hexo</a></span>: a webblog framework</li>
@@ -24,3 +26,4 @@
 <li><strong>[JUN. 2021]</strong> Join the <a href="https://www.spin-ion.com/">Spin-Ion Technologies</a>, involved in the <a href="https://bemagic-etn.eu/">BeMAGIC</a> program (Marie Sklodowska-Curie European Training Network).</li>
 </div>
 </ul>
+-->
